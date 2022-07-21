@@ -1,5 +1,5 @@
-class Hello{  
+class Hello1{  
     public static void main(String args[]){  
-     System.out.println("Hello from Chinna");  
+     System.out.println("Hello from Exclr");  
     }  
 } 
